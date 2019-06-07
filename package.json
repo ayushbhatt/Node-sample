@@ -1,0 +1,7 @@
+{
+  "name":"replaceWords",
+  "version": "1.0.0",
+  "keywords":["custom","Replace","words"],
+  "dependencies":{},
+  "repository":{"name":"Replcify","type":"git"}
+}
